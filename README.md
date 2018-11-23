@@ -2,7 +2,7 @@
 #### A short description of who I am and some early samples of my work as a beginner. November 23,2018
 #### By Francis Mwangi
 ## Description
-The website highlights my educational background, work experience so far, some information about who I am and some of the projects I've worked on so far as a Moringa School student.
+The website highlights information about who I am, my educational background, my work experience so far, and some of the projects I've worked on so far as a Moringa School student.
 ## Setup/Installation Requirements
 * The websites' URL
 * A working internet connection
