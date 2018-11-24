@@ -1,6 +1,18 @@
-h1 {
-  color: #0000FF;
+body{
+  background-color: #000000;
+  color: #f4f4f4;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:16px;
+  font: normal Arial, Helvetica, sans-serif;
+
+  line-height: 1.6em;
+  margin: 0;
+}
+.content{
+  width: 80%;
+  margin: auto;
 }
 img {
   float: left;
+    <img src="images/francis.jpg" alt="Animated photo of francis.">
 }

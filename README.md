@@ -13,5 +13,5 @@ I used basic HTML up until this point but there are more changes on the way.I ex
 ## Support and contact details
 Please reach out to me on abcdef@gmail.com for support.If you'd also like to request a new function, feel free to do so as well. All feedback is highly appreciated.
 ### License
-*{This project is licensed under the terms of the GPL license.}*
+*This project is licensed under the terms of the GPL license.*
 Copyright (c) 2018
