@@ -12,7 +12,8 @@ body{
   width: 80%;
   margin: auto;
 }
-img {
-  float: left;
+
+img{
+  float:left;
     <img src="images/francis.jpg" alt="Animated photo of francis.">
 }
