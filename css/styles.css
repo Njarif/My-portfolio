@@ -12,8 +12,16 @@ body{
   width: 80%;
   margin: auto;
 }
-
+.photo{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
 img{
   float:left;
-    <img src="images/francis.jpg" alt="Animated photo of francis.">
+    <src="images/francis.jpg" width: "360"
+    alt="Animated photo of francis.">
+
+
 }
